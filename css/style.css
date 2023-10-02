@@ -1,0 +1,64 @@
+h1 {
+  font-size: 24px;
+  color: #0f189f;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+nav {
+  background: #20a759;
+  color: #fff;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+na .active,
+nav a:hover {
+  background: #0b6b3a;
+}
+
+/* ID Selector */
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 100px;
+  padding: 10px;
+}
+
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+
+/* Class Selector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: #e42a42;
+}
+
+/* jawaban  */
+p {
+  color: darkslategrey;
+}
+
+#paragraf-1 {
+  color: blueviolet;
+}
+
+.text-paragraf {
+  color: #418fb1;
+}
